@@ -29,7 +29,7 @@ Time spent: `15 hours`
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+https://github.com/jxhangithub/dropbox/blob/master/dropbox-demo.gif
 
 
 
